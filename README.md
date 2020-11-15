@@ -1,5 +1,7 @@
 Predicting House Prices
-1- Project Simple Linear Regression
+--
+1- Project 
+Simple Linear Regression
 --
 2- Project
 Using ML Algorithms
@@ -19,5 +21,7 @@ Using Deep learning
 --
 Good luck
 Yasir Hussein Shakir
+
 E : Yasserhesseinshakir@yahoo.com
+
 T : +9647905767055
