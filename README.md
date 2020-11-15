@@ -1,22 +1,34 @@
 Predicting House Prices
 --
 1- Project 
+
 Simple Linear Regression
 --
 2- Project
+
 Using ML Algorithms
+
 Linear Regression
+
 Ridgen
+
 RandomForestRegressor
+
 ElasticNet
+
 DecisionTreeRegeseeor
+
 KNeighboreRegeseeor
+
 GradientBoostingRegeseeor
+
 --
 3- Project
+
 Using Deep learning
 --
 4- Project
+
 Using Deep learning
 --
 Good luck
